@@ -1,16 +1,25 @@
-### Hi there 👋
+<p align="center"><samp>Hey There 👋, welcome to my GitHub.</samp></p>
 
-<!--
-**vasll/Vasll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <b>I'm Vasll, an aspiring developer from Italy</b><br>
+  I have a passion for <i>almost all</i> computer-related stuff<br>
+  I enjoy mostly programming, networking and building software
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center" >
+  <p>Currently on a quest to learn<p>
+  <img src="https://skillicons.dev/icons?i=svelte,ts">
+</div>
+
+<br>
+<div align="center" >
+  <p>Languages and tools I've learned<p>
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,mysql,js,html,css">
+</div>
+
+
+<br>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasll&theme=dracula&hide_border=true" alt="Vasll's GitHub Stats Graph"/><br>
+</div>
