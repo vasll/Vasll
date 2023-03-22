@@ -9,7 +9,7 @@
 
 <div align="center" >
   <p>Currently on a quest to learn<p>
-  <img src="https://skillicons.dev/icons?i=svelte,ts">
+  <img src="https://skillicons.dev/icons?i=svelte,ts,fastapi">
 </div>
 
 <br>
