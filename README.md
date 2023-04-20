@@ -1,25 +1,23 @@
-<p align="center"><samp>Hey There 👋, welcome to my GitHub.</samp></p>
+<p align="left"><samp>Hey There, welcome to my GitHub!</samp></p>
 
 
-<div align="center">
-  <b>I'm Vasll, an aspiring developer from Italy</b><br>
-  I have a passion for <i>almost all</i> computer-related stuff<br>
-  I enjoy mostly programming, networking and building software
-</div><br>
-
-<div align="center" >
-  <p>Currently on a quest to learn<p>
-  <img src="https://skillicons.dev/icons?i=svelte,ts,fastapi">
+<div align="left">
+  I'm an aspiring developer from Italy currently studying informatics<br>
+  I enjoy programming, networking and building software<br>
+  I have a big passion for <i>most</i> computer-related things<br>
 </div>
 
-<br>
-<div align="center" >
-  <p>Languages and tools I've learned<p>
-  <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,mysql,js,html,css">
-</div>
+<h3>Technologies that I've worked with</h3>
+<h4>Languages</h4>
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,php,mysql,js,html,css">
 
+<h4>Frameworks</h4>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,bootstrap,jquery">
+
+<h4>Others</h4>
+<img src="https://skillicons.dev/icons?i=docker,replit,linux">
 
 <br>
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vasll&theme=dracula&hide_border=true" alt="Vasll's GitHub Stats Graph"/><br>
 </div>
