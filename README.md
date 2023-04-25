@@ -12,7 +12,7 @@
 <img src="https://skillicons.dev/icons?i=java,kotlin,python,php,mysql,js,html,css">
 
 <h4>Frameworks</h4>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,bootstrap,jquery">
+<img src="https://skillicons.dev/icons?i=flask,fastapi,bootstrap,jquery,androidstudio">
 
 <h4>Others</h4>
 <img src="https://skillicons.dev/icons?i=docker,replit,linux">
