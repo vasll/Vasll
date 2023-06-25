@@ -9,7 +9,7 @@
 
 <h3>Technologies that I've worked with</h3>
 <h4>Languages</h4>
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,php,mysql,js,html,css">
+<img src="https://skillicons.dev/icons?i=java,kotlin,python,go,php,mysql,js,html,css">
 
 <h4>Frameworks</h4>
 <img src="https://skillicons.dev/icons?i=flask,fastapi,bootstrap,jquery,androidstudio">
