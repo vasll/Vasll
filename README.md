@@ -1,6 +1,6 @@
 <h2>👋 Hi, welcome to my Github</h2>
 
-- 💂‍♂️ **I'm vasll** - an aspiring developer from Italy with a big passion for computers
+- 🗿 **I'm vasll** - an aspiring developer from Italy with a big passion for computers
 - 📚 Currently studying for my computer science degree
 - 📈 Always learning something new
 - 🌐 Open to collaborating 
