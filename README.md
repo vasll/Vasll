@@ -1,12 +1,12 @@
 <h2>👋 Hi, welcome to my Github</h2>
 
 - 🗿 **I'm vasll** - an aspiring developer from Italy with a big passion for computers
-- 📚 Currently studying for my computer science degree
+- 📚 Currently studying for my <strong>computer science degree</strong>
 - 📈 Always learning something new
 - 🌐 Open to collaborating 
 - 💬 You can contact me on Discord as vasll
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,mysql,flask,androidstudio,aws,go,fastapi,discord">
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,mysql,expressjs,nodejs,mongodb,arduino,androidstudio,aws,go,fastapi,discord">
 
 <details><summary>My stats</summary>
 
