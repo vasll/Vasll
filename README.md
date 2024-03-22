@@ -1,7 +1,3 @@
-<h2>👋 Hi, welcome to my Github</h2>
-
-- 🗿 **I'm vasll**, an aspiring developer from Italy with a big passion for computers
-- 📚 Currently studying for my <strong>computer science degree</strong>
-- 📈 Always learning something new
-- 🌐 Open to collaborating in projects
-- 💬 You can contact me on Discord as `vasll`
+## About me ⛰
+I'm a **CS student** from Italy that really likes computer stuff, and currently I'm also working as a **Rust backend developer** \
+I don't have a focus on a single framework or technology, I just try and use the right tool for the job
